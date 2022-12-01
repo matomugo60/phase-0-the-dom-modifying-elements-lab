@@ -2,6 +2,7 @@
 document.querySelector('main#main');
 main.remove('#main');
 
+
 const newHeader = document.createElement("h1");
 newHeader.id = "victory"
 newHeader.innerHTML = "Martin is the champion"
